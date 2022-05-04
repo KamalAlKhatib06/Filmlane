@@ -8,7 +8,7 @@ let imgBadge = document.querySelector(".card-img")
 
 moviesBox.forEach(function (el) {
     el.addEventListener("click", function (e) {
-        detail.style.backgroundImage = `url(../imgs/${e.currentTarget.id}.jpg)`
+        detail.style.backgroundImage = `url(imgs/${e.currentTarget.id}.jpg)`
         detail.classList.add(e.currentTarget.id)
         if (detail.classList.contains(e.currentTarget.id)) {
             detail.className = `detail pt-5 pb-5 d-flex align-items-center ${e.currentTarget.id}`
