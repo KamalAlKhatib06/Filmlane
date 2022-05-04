@@ -27,7 +27,7 @@ scrollTopBtn.addEventListener("click", function () {
 const topRated = [
     {
         id: 1,
-        img: "../imgs/freeguy.png",
+        img: "imgs/freeguy.png",
         name: "Free Guy",
         year: 2022,
         rate: 7.7,
@@ -36,7 +36,7 @@ const topRated = [
     },
     {
         id: 2,
-        img: "../imgs/peakyBlinders.jpg",
+        img: "imgs/peakyBlinders.jpg",
         name: "Peaky Blinders",
         year: 2016,
         rate: 9.1,
@@ -45,7 +45,7 @@ const topRated = [
     },
     {
         id: 3,
-        img: "../imgs/royal-rumble.jpg",
+        img: "imgs/royal-rumble.jpg",
         name: "Royal Rumble 2017",
         year: 2017,
         rate: 9.3,
@@ -54,7 +54,7 @@ const topRated = [
     },
     {
         id: 4,
-        img: "../imgs/strangerThings.jpg",
+        img: "imgs/strangerThings.jpg",
         name: "Stranger Things",
         year: 2017,
         rate: 8.8,
@@ -63,7 +63,7 @@ const topRated = [
     },
     {
         id: 5,
-        img: "../imgs/attackOnTitan.jpg",
+        img: "imgs/attackOnTitan.jpg",
         name: "Attack on Titan",
         year: 2013,
         rate: 9.3,
@@ -72,7 +72,7 @@ const topRated = [
     },
     {
         id: 6,
-        img: "../imgs/wwe2.jpg",
+        img: "imgs/wwe2.jpg",
         name: "Wrestlmania 31",
         year: 2014,
         rate: 9.1,
@@ -81,7 +81,7 @@ const topRated = [
     },
     {
         id: 7,
-        img: "../imgs/uncharted.png",
+        img: "imgs/uncharted.png",
         name: "Uncharted",
         year: 2022,
         rate: 7.0,
@@ -90,7 +90,7 @@ const topRated = [
     },
     {
         id: 8,
-        img: "../imgs/dragonBall.jpg",
+        img: "imgs/dragonBall.jpg",
         name: "Dragon Ball Z",
         year: 1989,
         rate: 8.8,
