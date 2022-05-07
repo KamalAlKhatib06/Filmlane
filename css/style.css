@@ -403,6 +403,14 @@ body {
     color: var(--btn-color);
 }
 
+@media (max-width:558px) {
+    .services-img-btn:not(i) {
+        bottom: -175px;
+        right: 60px;
+        padding: 20px 27px;
+    }
+
+}
 
 /* TopRated Section */
 .top-rated {
